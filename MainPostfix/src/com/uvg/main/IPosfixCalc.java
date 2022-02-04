@@ -7,9 +7,10 @@ package com.uvg.main;
 public interface IPosfixCalc {
 
 	/***
-	 * This method is used to evaluate a postfix expression
-	 * @param expresion this is a single expression like: 1 2 + 4 * 3 +
-	 * @return the evaluation of the expression
+	 * Este metodo se usa para evaluar las expresiones Postfix
+	 * @param expresion con una simple expresion como: 1 2 + 4 * 3 +
+	 * @return Evaluar la expresión
 	 */
+	
 	int Evaluate(String expresion);
 }
