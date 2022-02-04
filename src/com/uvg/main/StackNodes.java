@@ -1,12 +1,9 @@
 /**
- * 
+ * Hoja de Trabajo #2 - Bryan España - 21550
+ * Evaluar Expresiones PostFix
  */
 package com.uvg.main;
 
-/**
- * @author Bryan España - 21550
- *
- */
 public class StackNodes<T> implements IStack<T> {
 	
 	private Node<T> head;

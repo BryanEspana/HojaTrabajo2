@@ -1,13 +1,11 @@
 /**
- * 
+ * Hoja de Trabajo #2 - Bryan España - 21550
+ * Evaluar Expresiones PostFix
  */
 package com.uvg.main;
 
 import java.util.ArrayList;
-/**
- * @author Bryan España - 21550
- *
- */
+
 public class StackArrayList<T> implements IStack<T> {
 
 	private ArrayList<T> coreList;

@@ -1,12 +1,9 @@
 /**
- * 
+ * Hoja de Trabajo #2 - Bryan España - 21550
+ * Evaluar Expresiones PostFix
  */
 package com.uvg.main;
 
-/**
- * @author Bryan España - 21550
- *
- */
 public interface IStack<T> {
 
 	void push(T value);
